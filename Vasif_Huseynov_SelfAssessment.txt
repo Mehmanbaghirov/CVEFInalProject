@@ -1,0 +1,16 @@
+Contributions to the Project:
+Throughout the duration of the Python project, I actively contributed by developing the API request functionality 
+and implementing the backend logic. I ensured that the API requests were properly integrated, 
+and the backend functionality met the project requirements.
+
+What I Have Learned:
+Working on this project has been a valuable learning experience for me. 
+I gained a deeper understanding of Python libraries, honed my problem-solving skills, 
+and learned to collaborate effectively within a team environment. Additionally, 
+I enhanced my proficiency in Python programming and API integration.
+
+Collaboration with the Team:
+I collaborated closely with my team members throughout the project. 
+We maintained open communication channels, shared progress updates, and addressed any challenges 
+or concerns together. I actively participated in team meetings, provided support to my peers, 
+and ensured that our collective efforts aligned with the project objectives.
