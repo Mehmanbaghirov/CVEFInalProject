@@ -11,7 +11,7 @@ The CVE Report Generator is a tool designed to fetch and compile information abo
 - python-docx
 
 ## Instructions for Running the Project
-1. Clone the repository from [GitHub](https://github.com/your_username/repo_name).
+1. Clone the repository from [GitHub]([https://github.com/your_username/repo_name](https://github.com/Mehmanbaghirov/CVEFInalProject.git)).
 2. Navigate to the project directory.
 3. Install the required dependencies using pip:
 
